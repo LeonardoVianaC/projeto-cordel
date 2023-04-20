@@ -80,7 +80,8 @@ section.imagem{
     background-attachment: fixed;
     text-shadow: 1px 1px 0px black;
     box-shadow: inset 6px 6px 10px 0px rgba(0, 0, 0, 0.346);
-    background-position: right center;
+    background-position: center center;
+    
 }
 section#img1{
     background-image: url('../imagens/background001.jpg');
